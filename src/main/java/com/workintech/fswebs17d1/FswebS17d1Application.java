@@ -8,6 +8,7 @@ public class FswebS17d1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FswebS17d1Application.class, args);
+
 	}
 
 }
